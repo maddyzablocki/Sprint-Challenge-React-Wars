@@ -5,3 +5,11 @@ body {
   background-image: url('./sw-bg.jpg');
   background-size: cover;
 }
+
+.names {
+  width: 100%;
+  display: flex;
+  opacity: .5;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
